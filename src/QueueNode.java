@@ -1,4 +1,4 @@
-public class QueueNode {
+public class QueueNode  {
 
     Object object;
     int priority;
